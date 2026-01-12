@@ -1,5 +1,9 @@
 # 3.8 Computer Vision
 
+## Lesson Overview
+
+![Lesson Overview](./assets/infographic-3.8.png)
+
 ## Dependencies
 
 Refer to the following markdown file for the respective sections of the class:
