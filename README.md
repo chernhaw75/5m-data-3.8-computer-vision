@@ -16,19 +16,13 @@ Refer to the following markdown file for the respective sections of the class:
 
 ## Lesson Objectives
 
-Learners will understand:
+At the end of the lesson, learners shall be able to:
 
-- Definition, Scope, Historical Context, Evolution and Applications of Computer Vision (CV)
-- Basics of Image Processing
-- Classical Image Processing Techniques
-- Convolution Neural Networks (CNN)
-- Transfer Learning and Pre-trained Models
+* Explain the fundamentals of Computer Vision and apply **classical image processing techniques**, using Python libraries to analyze and enhance digital images.
 
-Learners will be able to:
+* Construct and train **Convolutional Neural Networks (CNNs)** for image classification, utilizing essential architectural components and optimization strategies.
 
-- Apply classical image processing techniques to images
-- Create and train a CNN for image classification
-- Utilize pre-trained models for image classification
+* Implement **Transfer Learning** strategies by adapting pre-trained models through feature extraction and fine-tuning to efficiently solve complex computer vision tasks.
 
 ## Lesson Plan
 
